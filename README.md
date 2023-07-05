@@ -53,7 +53,7 @@ Após a confirmação, o script utilizará a biblioteca Twilio para enviar a men
 
 Este código foi desenvolvido por [Raul Lopes](https://www.linkedin.com/in/eu-raullopes/).
 
-- Instagram: [@eu.raullopes](https://www.instagram.com/eu.raullopes/)
+- Instagram: [@eu.raullopes](https://www.instagram.com/_raulbraga/)
 - LinkedIn: [eu-raullopes](https://www.linkedin.com/in/devraullopes/)
 - E-mail: raulsilva67@outlook.com.br
 
